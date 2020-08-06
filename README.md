@@ -1,12 +1,6 @@
-# DEMOPROJECT FIRST HEADING 
-DEMOPROJECT
-
-## SECOND HEADING
-PROJECT
-
-###### smallest heading
-**Bold
-__bold
-_itlaic
-~~strikethrough
-***bold italic***
+# Heading One
+## Heading Two 
+### Heading Three
+#### Heading Four
+##### Heading Five
+###### Heading Six
