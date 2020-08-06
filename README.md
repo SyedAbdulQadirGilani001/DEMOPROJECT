@@ -15,4 +15,5 @@ _italic_
 ___bold italic___
 > That's it
 
-```git status```
+```git status git add git commit```
+`git status`
