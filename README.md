@@ -14,4 +14,5 @@ _italic_
 
 ___bold italic___
 > That's it
-''' status'''
+
+```git status```
