@@ -4,7 +4,7 @@
 #### Heading Four
 ##### Heading Five
 ###### Heading Six
--a
--b
--c
-+d
+- a
+- b
+- c
++ d
