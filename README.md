@@ -4,7 +4,11 @@
 #### Heading Four
 ##### Heading Five
 ###### Heading Six
+**Bold**
+__Bold__
+*italic*
+_italic_
+~~strikethrough~~
 - a
 - b
-- c
-+ d
+___bold italic___
