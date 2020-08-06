@@ -5,3 +5,8 @@ DEMOPROJECT
 PROJECT
 
 ###### smallest heading
+**Bold
+__bold
+_itlaic
+~~strikethrough
+***bold italic***
